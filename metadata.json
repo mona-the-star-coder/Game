@@ -1,0 +1,6 @@
+{
+  "name": "Apex Circuit 3D",
+  "description": "High-speed 3D circuit car racing game with sculpted race cars, drift-charged nitro boost, dynamic camera rigs, and competitive AI rivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
